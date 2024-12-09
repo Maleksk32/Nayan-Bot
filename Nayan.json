@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "S.K.RAJ-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61557634656806",
+    ""
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61557634656806",
     ""
   ],
   "OWNER": ["100000959749712"], 
